@@ -3,10 +3,6 @@ title: oneday
 description: 一段关于你博客的简介
 
 # 应用远程主题
-remote_theme: cotes2020/jekyll-theme-chirpy
 
-# 插件（这是 Chirpy 主题需要的）
-plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
